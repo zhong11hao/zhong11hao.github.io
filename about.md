@@ -1,6 +1,5 @@
 ---
-layout: default
-title: site-info
+layout: page
 permalink: /about/
 ---
 This website is powered by Jekyll on github using theme called *Polar Bear*
